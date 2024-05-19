@@ -207,3 +207,5 @@ Make sure all HTML tags from objects are correctly used (example: <BR /> must ge
 State, City, Amenity and Place objects must be loaded from DBStorage and sorted by name (A->Z)
 You must use the option strict_slashes=False in your route definition
 Import this 100-dump to have some data
+
+To collaborate please contact me "mouyssi.abdelkrim@gmail.com"
